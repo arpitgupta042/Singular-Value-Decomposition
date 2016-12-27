@@ -1,0 +1,23 @@
+ 
+
+ 
+
+ 
+
+Wt.txt is a file containing the matrix elements. 
+
+ There are 128 rows and 4096
+columns in this matrix.
+
+
+
+ 
+
+Circlec2 is vector b of the system Ax=b;
+
+
+
+ 
+
+This file contains 2 rows of elements each having 64 elements.
+
